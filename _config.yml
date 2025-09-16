@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Justin Haddad / Personal Website"
+title                    : "Justin Haddad Personal Website"
 title_separator          : "-"
 name                     : &name "Justin Haddad"
 description              : &description "Justin Haddad's personal portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "profile.JPG"
   name             : "Justin Haddad"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"
   bio              : "Fulbright ETA in South Korea"
-  location         : "NYC"
-  employer         : ""
+  location         : "New York"
+  employer         : 
   uri              : # URL
   email            : "jhaddad2202@gmail.com" 
 
