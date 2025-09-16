@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant for CSEEW3827: Fundamentals of Computer Systems"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Computer Science, Computer Engineering, and Electrical Engineering Requirement"
+permalink: /teaching/2024-2025_fundies
+venue: "Columbia University, Computer Science and Electrical Engineering Department"
+date: 2024-2025
+location: "New York City, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Teaching Assistant/Course Assistant for Fundamentals of Computer Systems (CSEE W3827) in Fall 2024 and Spring 2025. Acted as a Teaching Assistant for a required course of over 350 students for the Computer Science, Computer Engineering, and Electrical Engineering Majors at Columbia University and Barnard College. Led review sessions, graded assignments, and held office hours consistently helping improve dozens of students understanding of the basic systems that make up every computer chip. 
