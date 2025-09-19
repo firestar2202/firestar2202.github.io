@@ -12,7 +12,7 @@ I'm linking my blog, some photography I've done, and some news articles about me
 - Some of my favorite shots:
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px;">
-  <img src="/images/photography1.JPG" alt="Photography 1" style="width:100%; height:auto; border-radius:8px;">
+  <img src="/images/photography1.jpg" alt="Photography 1" style="width:100%; height:auto; border-radius:8px;">
   <img src="/images/photography2.jpg" alt="Photography 2" style="width:100%; height:auto; border-radius:8px;">
   <img src="/images/photography3.jpg" alt="Photography 3" style="width:100%; height:auto; border-radius:8px;">
   <img src="/images/photography4.jpg" alt="Photography 4" style="width:100%; height:auto; border-radius:8px;">
