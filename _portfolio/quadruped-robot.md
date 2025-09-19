@@ -3,7 +3,9 @@ title: "Walking Quadruped Robot"
 excerpt: "Made a walking robot from scratch! Sketched, CADed, Printed, and trained to walk in a 3D simulated environment."
 collection: portfolio
 permalink: /portfolio/quadruped-robot
-image: /images/robo.png
+image: /images/robo.jpeg
+date: 2024-09-01
+
 
 ---
 
